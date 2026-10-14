@@ -1,0 +1,4 @@
+# Minimal dependencies – only pytest is required for testing.
+# Ollama, flake8, and black are optional quality-of-life extras.
+
+pytest>=7.4
